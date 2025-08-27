@@ -6,7 +6,7 @@ An interactive web dashboard built with Python, Dash, and Plotly to explore rela
 
 **View the live, deployed dashboard here: [https://mieraci.pythonanywhere.com/](https://mieraci.pythonanywhere.com/)** 
 
-![Dashboard Screenshot](screenshot.png)
+![Dashboard Screenshot](Screenshot.png)
 
 
 ## Features

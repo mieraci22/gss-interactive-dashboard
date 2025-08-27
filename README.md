@@ -4,10 +4,10 @@ An interactive web dashboard built with Python, Dash, and Plotly to explore rela
 
 ## 🚀 Live Demo
 
-**View the live, deployed dashboard here: [https://your-username.pythonanywhere.com/](https://your-username.pythonanywhere.com/)** *(Replace `your-username` with your actual PythonAnywhere username)*
+**View the live, deployed dashboard here: [https://mieraci.pythonanywhere.com/](https://mieraci.pythonanywhere.com/)** 
 
-![Dashboard Screenshot](link-to-your-screenshot.png) 
-*(To add a screenshot, just drag and drop an image into this README file on GitHub after you upload the project)*
+![Dashboard Screenshot](image.png)
+
 
 ## Features
 
@@ -19,7 +19,7 @@ An interactive web dashboard built with Python, Dash, and Plotly to explore rela
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
+    git clone [https://github.com/mieraci22/gss-interactive-dashboard.git](https://github.com/mieraci22/gss-interactive-dashboard.git)
     cd your-repo-name
     ```
 2.  **Create and activate a virtual environment:**
